@@ -1,10 +1,15 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: "The Serial Comma Blog"
+description: >- # this means to ignore newlines until "baseurl:"
+  Posts from Scott V. Kissinger, the founder of Serial Comma LLC
+  on topics related to developing the business and the technology
+  behind the business.
+author: Scott V. Kissinger
+copr_owner: Serial Comma LLC
+copr_dates: "2020" # copyright date or date range
+github: https://github.com/serialcomma
+about: I'm the founder of Serial Comma LLC, a lawyer by trade, and a techie at heart.
+# disqus_shortname: 
+# google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
@@ -15,20 +20,20 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/serialcomma"
+    - icon: fa-twitter
+      link: "https://twitter.com/scottkissinger"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/scottkissingerlawyer/"
+#    - icon: fa-facebook
+#      link: "#"
+#    - icon: fa-stack-exchange
+#      link: "#"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: scottkissinger
+#   fb_appid: 
 
 urls:
     - text: About Me
@@ -38,13 +43,14 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
-baseurl: ""
+url: "" # "https://www.serial-comma.com"
+baseurl: "" #"/blog"
+port: 4003
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
