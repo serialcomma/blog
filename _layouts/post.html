@@ -13,6 +13,14 @@ layout: default
 {% endif %}
 
 <div class="content">
+  {% if page.image %}
+    <figure>
+      <img src="/static/img/{{ page.image }}" alt="{{ page.image-alt }}" />
+      <figcaption>
+        <p class="caption">{{ page.image-caption }}</p>
+      </figcaption>
+    </figure>
+  {% endif %}
   <div class="post">{{ content }}</div>
   {% include share-page.html %}
 </div>
