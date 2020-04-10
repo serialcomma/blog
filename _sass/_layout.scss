@@ -204,8 +204,9 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
+    font-family: 'Sarabun', sans-serif;
+    font-size: 48px;
+    //letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
