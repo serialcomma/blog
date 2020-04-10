@@ -4,6 +4,9 @@ title: "Useful resources for the learning developer"
 date: 2020-03-29 12:00:00 +0800
 categories: [tech, html, css, jekyll]
 tags: [tech]
+image: 2020-03-29-duckduckgo.png
+image-alt: duckduckgo search screen
+image-caption: DuckDuckGo
 ---
 
 Credible, focused, concise information can be hard to find online. When you have a question, you want to find the right answer quickly and return to your primary task. During my learning journey (which continues as intensely as ever), I have found the resources listed below to be helpful.

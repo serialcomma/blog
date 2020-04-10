@@ -35,7 +35,7 @@ share:
   twitter_username: scottkissinger
 #   fb_appid: 
 
-urls:
+urls: # for left column nav
     - text: About Me
       url: /about/
     - text: My Projects
