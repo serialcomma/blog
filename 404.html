@@ -4,21 +4,31 @@ layout: default
 
 <style type="text/css" media="screen">
   .container {
+    max-width: 100%;
     margin: 10px auto;
-    max-width: 600px;
+    color: #262626;
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  .text {
+    padding: 5rem 0;
+    font-family: 'Sarabun', sans-serif;
+    font-size: 1.8em;
     line-height: 1;
-    letter-spacing: -1px;
+  }
+  .image {
+    height: 50%;
+    width: 50%; 
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+    <p class="text">Oops! You must have typed two spaces after a period!</p>
+    <figure>
+      <img src="/static/img/404.png" alt="404 with serial comma logo" class="image" />
+    </figure>
+    <p class="text">Please check your spelling and punctuation or visit our <a href="https://www.serial-comma.com">home page</a>.</p>
 </div>
