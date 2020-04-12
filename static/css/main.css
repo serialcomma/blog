@@ -128,8 +128,16 @@ div.col-sm-3 div.profile-about {
   text-align: left;
 }
 
+/* Post Image */
+.post__image {
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Image Caption */
-.caption{
+.caption {
   font-family: 'Sarabun', sans-serif;
   color: #525252;
   margin-bottom: 1.5rem;
@@ -137,6 +145,14 @@ div.col-sm-3 div.profile-about {
   text-align: right;
 }
 
+/* Post Image Caption */
+.post__caption {
+  font-family: 'Sarabun', sans-serif;
+  color: #525252;
+  margin-bottom: 1.5rem;
+  font-size: 14px;
+  text-align: center;
+}
 
 /* Social Icons */
 .social{
