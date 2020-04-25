@@ -44,6 +44,20 @@ a:hover {
   font-weight: 500;
 }
 
+/* JetBrainsMono-Regular */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('JetBrains Mono Regular'), local('JetBrainsMono-Regular'),
+       url('../fonts/JetBrainsMono-Regular.woff') format('woff');
+}
+
+code,kbd,pre,samp {
+  font-family: 'JetBrains Mono', Menlo, Monaco, Consolas, monospace;
+  font-weight: 400;
+}
+
 /* Layout */
 .main-layout {
   background: #fff;
