@@ -18,7 +18,7 @@ JetBrains does a better job than I could of explaining why their typeface is wel
 Figure 1 is a comparison of JetBrains Mono and the sans serif typeface for this project, Sarabun.
 
 <figure>
-  <img src="/static/img/2020-04-25-jetbrains-mono-sarabun.png" alt="sample text in jetbrains mono and sarabun" class="post__image" style="max-height: 10rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-25-jetbrains-mono-sarabun.png" alt="sample text in jetbrains mono and sarabun" class="post__image" style="max-height: 10rem;" />
   <figcaption class="post__caption">Figure 1. JetBrains Mono (top) and Sarabun</figcaption>
 </figure>
 

@@ -20,7 +20,7 @@ I won't walk through my thought process for this choice in the same detail as fo
 To eliminate the suspense, I chose Sarabun as the typeface to complement Lora. Figure 1 shows the sample string in Sarabun.
 
 <figure>
-  <img src="/static/img/2020-04-19-sarabun.png" alt="sample string in Sarabun typeface" class="post__image" style="max-height: 15rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-19-sarabun.png" alt="sample string in Sarabun typeface" class="post__image" style="max-height: 15rem;" />
   <figcaption class="post__caption">Figure 1. Sarabun</figcaption>
 </figure>
 
@@ -42,14 +42,14 @@ So perhaps not perfect, but Sarabun ticked more boxes than the other candidate t
 The objective for using a second typeface is to create harmonious contrast with the primary typeface. Sarabun contrasts with Lora in being sans serif and a lighter weight than Lora, but is harmonious in having an almost identical x height and similar letter shapes. Figure 2 illustrates the first three of those properties.
 
 <figure>
-  <img src="/static/img/2020-04-19-loral-sarabun-x-height.png" alt="side by side comparison with horizontal lines" class="post__image" style="max-height: 10rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-19-loral-sarabun-x-height.png" alt="side by side comparison with horizontal lines" class="post__image" style="max-height: 10rem;" />
   <figcaption class="post__caption">Figure 2. Lora and Sarabun x heights</figcaption>
 </figure>
 
 Figure 3 illustrates the similarities of the letter shapes of the typefaces.
 
 <figure>
-  <img src="/static/img/2020-04-19-sarabun-lora.png" alt="sarabun above lora with the same sample text" class="post__image" style="max-height: 10rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-19-sarabun-lora.png" alt="sarabun above lora with the same sample text" class="post__image" style="max-height: 10rem;" />
   <figcaption class="post__caption">Figure 3. Sarabun and Lora</figcaption>
 </figure>
 

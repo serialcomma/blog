@@ -1,5 +1,5 @@
 title: "The Serial Comma Blog"
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "author:"
   Posts from Scott V. Kissinger, the founder of Serial Comma LLC
   on topics related to developing the business and the technology
   behind the business.
@@ -43,9 +43,9 @@ urls: # for left column nav
     - text: XML Feed
       url: /feed.xml
 
-url: "" # "https://www.serial-comma.com"
-baseurl: "" #"/blog"
-port: 4003
+url: "https://www.serial-comma.com/"
+baseurl: "/blog"
+# port: 4003
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"

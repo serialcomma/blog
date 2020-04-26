@@ -16,7 +16,7 @@ This is particularly true for typography. I love typography--I have read a dozen
 This post presents a framework for choosing typefaces for a project. It is by no means definitive, but it helps to make the process less arbitrary.
 
 <figure>
-  <img src="/static/img/2020-04-12-anatomy-of-a-typeface.png" alt="anatomy of a typeface" class="post__image" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-anatomy-of-a-typeface.png" alt="anatomy of a typeface" class="post__image" />
   <figcaption class="post__caption">Figure 1. From Material Design <a href="https://material.io/design/typography/understanding-typography.html">Understanding Typography</a></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The x-height of a font is the height of the lowercase x, as illustrated in the i
 Here are two examples of serif fonts of the same font size with different x-heights. (The examples I show will not necessarily use fonts available in Google Fonts.)
 
 <figure>
-  <img src="/static/img/2020-04-12-x-height-comparison.png" alt="comparison of georgia and garamond x-heights" class="post__image" style="max-height: 15rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-x-height-comparison.png" alt="comparison of georgia and garamond x-heights" class="post__image" style="max-height: 15rem;" />
   <figcaption class="post__caption">Figure 2. Georgia and Garamond 60 pts</figcaption>
 </figure>
 
@@ -74,12 +74,12 @@ All other things being equal, I'll be looking for fonts with larger x-heights.
 There are two styles of numbers: old style and lining. Old style numbers are like lowercase letters in that they have an x-height, ascenders, and descenders; lining numbers are all the same height as capital letters. Either style can be proportional, which blends more smoothly with surrounding text, or tabular, which line up in columns. Here are examples:
 
  <figure>
-  <img src="/static/img/2020-04-12-old-style-v-lining.png" alt="comparison of old style and lining numbers" class="post__image" style="max-height: 5rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-old-style-v-lining.png" alt="comparison of old style and lining numbers" class="post__image" style="max-height: 5rem;" />
   <figcaption class="post__caption">Figure 3. Old style vs lining numbers, ET Bembo</figcaption>
 </figure>
 
 <figure>
-  <img src="/static/img/2020-04-12-proportional-v-tabular.png" alt="comparison of proportional and tabular numbers" class="post__image" style="max-width: 50%" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-proportional-v-tabular.png" alt="comparison of proportional and tabular numbers" class="post__image" style="max-width: 50%" />
   <figcaption class="post__caption">Figure 4. Proportional vs. tabular numbers, Concourse C4 and Concourse C4 Tab</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ I find old style numbers to be fussy and I anticipate I will rarely present numb
 The first block of characters in the sample string enables two other quick checks. The first is whether the lowercase a and g characters are single story or double story, as illustrated here:
 
 <figure>
-  <img src="/static/img/2020-04-12-1-v-2-story-ag.png" alt="comparison of single and double story a and g" class="post__image" style="max-height: 5rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-1-v-2-story-ag.png" alt="comparison of single and double story a and g" class="post__image" style="max-height: 5rem;" />
   <figcaption class="post__caption">Figure 5. Century Gothic, Avenir, Baskerville</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ The first example shows two single story characters. The second example shows a 
 Why does this matter? The double story a and g are unambiguously distinguishable from the o and q characters respectively. See how difficult it can be to distinguish the a from the o in the first set of characters below compared to the second.
 
 <figure>
-  <img src="/static/img/2020-04-12-ao-comparison.png" alt="comparison of single and double story a and o" class="post__image" style="max-height: 5rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-ao-comparison.png" alt="comparison of single and double story a and o" class="post__image" style="max-height: 5rem;" />
   <figcaption class="post__caption">Figure 6. Century Gothic and Baskerville</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ The next block of characters in my sample string are capitals enclosed in single
 First, is there anything funky going on with the capital Q or capital W? 
 
 <figure>
-  <img src="/static/img/2020-04-12-funky-q-and-w.png" alt="unusual capital q and W" class="post__image" style="max-height: 10rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-funky-q-and-w.png" alt="unusual capital q and W" class="post__image" style="max-height: 10rem;" />
   <figcaption class="post__caption">Figure 7. Top row L-R; Apple Chancery, Baskerville, Brush Script MT, Gabriola<br>Bottom row L-R: Garamond, Goudy Old Style, Harrington, Hoefler Text</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ At the end of the sample string are several common symbols. Are they nicely form
 After following the decision framework I just described, I chose the [Lora](https://fonts.google.com/specimen/Lora) typeface in Google Fonts. Here is the sample string in Lora:
 
 <figure>
-  <img src="/static/img/2020-04-12-lora.png" alt="sample string in the lora typeface" class="post__image" style="max-height: 15rem;" />
+  <img src="{{ site.baseurl }}/static/img/2020-04-12-lora.png" alt="sample string in the lora typeface" class="post__image" style="max-height: 15rem;" />
   <figcaption class="post__caption">Figure 8. Lora</figcaption>
 </figure>
 
