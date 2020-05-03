@@ -8,7 +8,7 @@ tags: [jekyll, tech]
 
 I manage this blog (and several others) with [Jekyll](https://jekyllrb.com).  While it is easy and efficient to add content once I've installed and configured it, I run across anomalies with every new installation.
 
-I don't pretend to understand Ruby or most of the other components Jekyll is built from, including the 'gems' functionality. When running `bundle install` I would frequently encounter errors that seemingly came from nowhere--these were fresh installs and I hadn't touched the code. After some digging, I saw a recommendation to change the command to `bundle exec install`. Bingo! Problem solved.
+I don't pretend to understand Ruby or most of the other components Jekyll is built from, including the 'gems' functionality. When running `bundle install` I would frequently encounter errors that seemingly came from nowhere---these were fresh installs and I hadn't touched the code. After some digging, I saw a recommendation to change the command to `bundle exec install`. Bingo! Problem solved.
 
 The recommendation didn't explain why adding `exec` would fix the problem. Now I've found the answer on this [stackoverflow post](https://stackoverflow.com/questions/6588674/what-does-bundle-exec-rake-mean). See the *second* answer in that post for the most straightforward explanation.
 

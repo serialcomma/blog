@@ -11,7 +11,7 @@ image-caption: x height illustration with Avenir font
 
 A consistent theme you will see in this blog is my search for decision frameworks. I am frustrated by design websites that say "the best choice for X is Y" without saying *why* Y is the best choice or whether Y would also be the best choice for X\' or Z. Chances are good that my requirements will be different, so please give me principles I can follow to make intelligent decisions for my situation, or that will at least start me in the right direction.
 
-This is particularly true for typography. I love typography--I have read a dozen or so books on the topic and eagerly read articles about it when I find them. I'm knowledgeable about the technical aspects of typography, but I struggle with one of the most important design aspects at the outset of a new project: choosing typefaces.
+This is particularly true for typography. I love typography---I have read a dozen or so books on the topic and eagerly read articles about it when I find them. I'm knowledgeable about the technical aspects of typography, but I struggle with one of the most important design aspects at the outset of a new project: choosing typefaces.
 
 This post presents a framework for choosing typefaces for a project. It is by no means definitive, but it helps to make the process less arbitrary.
 
@@ -50,13 +50,13 @@ There is a method to my madness, as you will see.
 
 ### Type class
 
-There are five basic classes of type: serif, sans serif, display, monospace, and script. For the body text of this blog, monospace--which allots the same space to each character, like a typewriter--won't work because it seems unfinished. Script fonts won't work because they're too fussy and hard to read in lengthy blocks of text. Display fonts are for headlines and short snippets of text.
+There are five basic classes of type: serif, sans serif, display, monospace, and script. For the body text of this blog, monospace---which allots the same space to each character, like a typewriter---won't work because it seems unfinished. Script fonts won't work because they're too fussy and hard to read in lengthy blocks of text. Display fonts are for headlines and short snippets of text.
 
 The debate rages whether serif or sans serif fonts are better for body text. I won't revisit that debate here. My personal preference is a serif font for blocks of text, so that is where I will start my search.
 
 ### x-height
 
-The x-height of a font is the height of the lowercase x, as illustrated in the image at the top of this post. The characters in that image---from the beginning of my sample string--are intended to show the height of the x character relative to other characters with ascenders and descenders. That's because the *relative* x-height is what is important for readability. In general, for smaller font sizes, fonts with a larger x-height will be easier to read because the features of the letterforms will be more easily distinguished.
+The x-height of a font is the height of the lowercase x, as illustrated in the image at the top of this post. The characters in that image---from the beginning of my sample string---are intended to show the height of the x character relative to other characters with ascenders and descenders. That's because the *relative* x-height is what is important for readability. In general, for smaller font sizes, fonts with a larger x-height will be easier to read because the features of the letterforms will be more easily distinguished.
 
 Here are two examples of serif fonts of the same font size with different x-heights. (The examples I show will not necessarily use fonts available in Google Fonts.)
 
@@ -170,8 +170,8 @@ What do *you* think? You've been reading this post in Lora.
 
 ## For further reading
 
-[Understanding typography](https://material.io/design/typography/understanding-typography.html) - Material Design. An excellent concise introduction to the concepts and terminology of typography.
+[Understanding typography](https://material.io/design/typography/understanding-typography.html) -- Material Design. An excellent concise introduction to the concepts and terminology of typography.
 
-[How to Choose a Font for a Project](https://betterwebtype.com/articles/2019/10/20/how-to-choose-a-font-for-a-project/) - betterwebtype.com. A structured approach to choosing a font.
+[How to Choose a Font for a Project](https://betterwebtype.com/articles/2019/10/20/how-to-choose-a-font-for-a-project/) -- betterwebtype.com. A structured approach to choosing a font.
 
-[To choose the right typeface, look at its x-height.](https://blog.prototypr.io/to-choose-the-right-typeface-look-at-its-x-height-instead-d5ef0967d09c) - Medium. The inspiration for this article's illustration.
+[To choose the right typeface, look at its x-height.](https://blog.prototypr.io/to-choose-the-right-typeface-look-at-its-x-height-instead-d5ef0967d09c) -- Medium. The inspiration for this article's illustration.

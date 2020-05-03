@@ -11,7 +11,7 @@ image-caption: Ed Hathaway from Pixabay
 
 People starting an online business in the US have many choices for the location and type of company to form. I won't say too much because everyone's situation is different and I don't want anyone to think this is a recipe,[^1] but here was my thought process when I formed Serial Comma LLC.
 
-[^1]: Or legal advice. This post is for general information only and does not constitute legal or tax advice. If you need legal or tax advice, please contact a qualified lawyer or tax advisor.
+[^1]: Or legal or tax advice. This post is for general information only and does not constitute legal or tax advice. If you need legal or tax advice, please contact a qualified lawyer or tax advisor.
 
 ## Entity Type
 

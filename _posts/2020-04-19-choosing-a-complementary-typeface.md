@@ -57,8 +57,8 @@ If anything, the typefaces may not be sufficiently contrasting. But I do not ant
 
 ## For further reading
 
-[10 golden rules you should live by when combining fonts](https://www.canva.com/learn/combining-fonts-10-must-know-tips-from-a-designer/) - Helpful guidelines.
+[10 golden rules you should live by when combining fonts](https://www.canva.com/learn/combining-fonts-10-must-know-tips-from-a-designer/) -- Helpful guidelines.
 
-[A Beginner’s Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706) - Useful discussion of concord, contrast, and conflict, with lots of examples.
+[A Beginner’s Guide to Pairing Fonts](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706) -- Useful discussion of concord, contrast, and conflict, with lots of examples.
 
-[What Font Should I Use? 5 Principles for Choosing and Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/) - More helpful guidelines with examples.
+[What Font Should I Use? 5 Principles for Choosing and Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/) -- More helpful guidelines with examples.
