@@ -10,11 +10,11 @@
 }
 h3.project-headlines {
   margin: 5px 0;
-  font-size: 20px;
+  font-size: var(--text-m);
 }
 
 span.tags {
-  font-size: 10px;
+  font-size: var(--text-xs);
   border-bottom: 1px #888 dotted;
   margin: 0 5px;
 }
@@ -33,13 +33,14 @@ span.tags:last-child {
   display: inline-block;
   position: relative;
   float: left;
+  font-size: var(--text-s);
   text-decoration: none;
 }
 .project-footer .project-timeline {
   display: inline-block;
   position: relative;
   float: right;
-  font-size: 13px;
+  font-size: var(--text-xs);
   font-style: italic;
 }
 .project-inner > a {
@@ -61,9 +62,9 @@ span.tags:last-child {
 span.tag-cloud {
   margin: 0 2px;
   cursor: pointer;
-  font-size: 75%;
+  font-size: var(--text-s);
   padding: .2em .6em .3em;
-  font-weight: 700;
+  font-weight: 500;
   display: inline;
 }
 .tag-cloud.active {
@@ -76,5 +77,5 @@ a.project-detail:hover {
   text-decoration: none;
 }
 a.project-detail:hover h3 {
-  color: #B3B3B3;
+  color: var(--gray-50);
 }

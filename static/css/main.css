@@ -1,10 +1,32 @@
+:root {
+  font-size: 16px; /* fixes a stupid bootstrap setting in the html block */
+  /* see https://www.modularscale.com/?16&px&1.25 
+     uses rems because bootstrap styles frequently change the font size */
+  --text-4xl: 3.815rem;
+  --text-3xl: 3.052rem;
+  --text-2xl: 2.441rem;
+  --text-xl:  1.953rem;
+  --text-l:   1.563rem;
+  --text-m:   1.250rem; /* this is body text size (20px) */
+  --text-s:   1.000rem;
+  --text-xs:  0.800rem;
+  --text-2xs: 0.640rem;
+  --text-3xs: 0.512rem;
+
+  --purple-60: #8a3ffc;
+  --gray-90: #262626;
+  --gray-80: #393939;
+  --gray-70: #525252;
+  --gray-60: #6f6f6f;
+  --gray-50: #8d8d8d;
+}
 body {
   font-family: 'Lora', serif;
-  background: url("/static/img/subtle_dots.png");
+  background: url("{{ site.baseurl }}/static/img/subtle_dots.png");
   line-height: 1.5em;
   font-weight: 400;
-  font-size: 18px;
-  color: #262626;
+  font-size: var(--text-m);
+  color: var(--gray-90);
 }
 hr {
   margin-top: 20px;
@@ -15,32 +37,39 @@ hr {
 }
 span.time, span.categories{
   font-family: 'Sarabun', sans-serif;
-  color: #525252;
+  color: var(--gray-70);
   margin-bottom: 5px;
-  font-size: 14px;
+  font-size: var(--text-s);
 }
 h1, h2, h3 {
   font-family: 'Sarabun', sans-serif;
-  color: #262626;
+  color: var(--gray-90);
   font-weight: 400;
 }
 h1 {
+  font-size: var(--text-3xl);
   margin-bottom: 10px;
-  font-size: 42px;
 }
-h2, h3 {
+h2 {
+  font-size: var(--text-xl);
+  margin-bottom: 5px;
+}
+h3 {
+  font-size: var(--text-l);
+  font-weight: 600;
   margin-bottom: 5px;
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #8a3ffc; /* #3fa757; */
+  color: var(--purple-60);
 }
 a:hover {
-  color: #B3B3B3;
+  color: var(--gray-50);
   text-decoration: underline;
 }
 .author-name {
   font-family: 'Lora', serif;
+  font-size: var(--text-2xl);
   font-weight: 500;
 }
 
@@ -79,15 +108,15 @@ code,kbd,pre,samp {
 
 /* Content */
 div.content pre {
-  background: #333333;
+  background: var(--gray-90);
   padding: 10px;
   color: #FFF;
   overflow-x: auto;
-  font-size: 16px;
+  font-size: var(--text-s);
   border: none;
 }
 div.content .highlight {
-	background: #333333;
+	background: var(--gray-80);
 }
 footer {
   border-top: 1px solid #F7F1F1;
@@ -96,10 +125,10 @@ footer {
   margin-top: 10px;
   margin-bottom: 3em;
   padding-top: 10px;
-  color: #525252;
+  color: var(--gray-70);
   font-family: 'Sarabun', sans-serif;
   font-weight: 200;
-  font-size: 12px;
+  font-size: var(--text-xs);
   bottom: 0;
   padding-bottom: 10px;
 }
@@ -107,24 +136,25 @@ footer {
 /* Left column */
 div.col-sm-3 {
   margin-top: 100px;
-  font-size: 16px;
-  color: #666;
+  font-size: var(--text-s);
+  color: var(--gray-60);
 }
 div.col-sm-3 strong {
-  font-size: 18px;
-  color: #4A4A4A;
-  font-weight: normal;
+  font-size: var(--text-m);
+  color: var(--gray-80);
+  font-weight: 400;
 }
 div.col-sm-3 div.profile-about {
   font-family: 'Sarabun', sans-serif;
+  font-size: var(--text-s);
   line-height: 20px;
   margin-top: 10px;
-  color: #525252;
+  color: var(--gray-70);
 }
 
 /* Pagination */
 .PageNavigation {
-  font-size: 14px;
+  font-size: var(--text-s);
   display: block;
   width: auto;
   overflow: hidden;
@@ -153,18 +183,18 @@ div.col-sm-3 div.profile-about {
 /* Image Caption */
 .caption {
   font-family: 'Sarabun', sans-serif;
-  color: #525252;
+  color: var(--gray-70);
   margin-bottom: 1.5rem;
-  font-size: 14px;
+  font-size: var(--text-xs);
   text-align: right;
 }
 
 /* Post Image Caption */
 .post__caption {
   font-family: 'Sarabun', sans-serif;
-  color: #525252;
+  color: var(--gray-70);
   margin-bottom: 1.5rem;
-  font-size: 14px;
+  font-size: var(--text-xs);
   text-align: center;
 }
 
@@ -183,11 +213,11 @@ div.col-sm-3 div.profile-about {
   margin: 0 5px;
 }
 .social li a {
-  font-size: 20px;
-  color: #969394;
+  font-size: var(--text-m);
+  color: var(--gray-50);
 }
 .social li a:hover {
-  color: #6D6D6D;
+  color: var(--gray-70);
 }
 
 .share-page {
