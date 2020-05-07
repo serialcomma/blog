@@ -8,7 +8,7 @@ copr_owner: Serial Comma LLC
 copr_dates: "2020" # copyright date or date range
 github: https://github.com/serialcomma
 about: I'm the founder of Serial Comma LLC, a lawyer by trade, and a techie at heart.
-# disqus_shortname: 
+# disqus_shortname: # if this is enabled, but reactivate code in post.html
 # google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
