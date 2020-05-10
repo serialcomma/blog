@@ -168,7 +168,7 @@ End result: crisp, unfussy, finished.
 
 What do *you* think? You've been reading this post in Lora.
 
-## For further reading
+## For Further Reading
 
 [Understanding typography](https://material.io/design/typography/understanding-typography.html) -- Material Design. An excellent concise introduction to the concepts and terminology of typography.
 

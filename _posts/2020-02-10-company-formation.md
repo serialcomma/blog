@@ -31,7 +31,7 @@ If I were starting a brick & mortar business, I would form my LLC in the state w
 
 Delaware is by far the most popular choice of jurisdictions for incorporating traditional businesses, but it seems to be behind the curve for LLCs. The competition today seems to be between Nevada and Wyoming. State corporation tax is not an issue because of the pass-through status of the LLC, and Wyoming appears to have lower formation and annual maintenance fees. Wyoming it would be.
 
-## Registered agent
+## Registered Agent
 
 Although it would have been possible to register the new company myself with the [Wyoming Secretary of State](https://sos.wyo.gov/Business/StartABusiness.aspx), I chose to use a registered agent instead. Like all states (that I am aware of, least), Wyoming requires all companies to have a registered agent in the state to accept service of process (*ie*, notice of a lawsuit filed against them), so I would need to hire a registered agent in any case since I don't live in the state. To save the hassle and for a little peace of mind, I paid a small fee to the agent to form the company for me.
 
@@ -41,7 +41,7 @@ Forming the company was straightforward. Other than providing the name of the co
 
 You may wonder why I formed the company now if it won't conduct business for a few years. There are three reasons: first (and most important), I wanted to secure the company name; second, I want to begin incurring expenses in the name of the company; and third, I want to begin getting a handle on the accounting and tax aspects of managing a business.
 
-## For further reading
+## For Further Reading
 
 [Advantages of an LLC](https://www.legalzoom.com/articles/advantages-of-an-llc)
 

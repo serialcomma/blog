@@ -55,7 +55,7 @@ Figure 3 illustrates the similarities of the letter shapes of the typefaces.
 
 If anything, the typefaces may not be sufficiently contrasting. But I do not anticipate using the two typefaces at the same size next to each other, so I think the contrast will be sufficient. I am satisfied for now and will see if my opinion changes after living with the fonts for a while.
 
-## For further reading
+## For Further Reading
 
 [10 golden rules you should live by when combining fonts](https://www.canva.com/learn/combining-fonts-10-must-know-tips-from-a-designer/) -- Helpful guidelines.
 
