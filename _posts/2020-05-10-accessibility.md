@@ -25,11 +25,14 @@ The industry appears to be coalescing around the [Web Content Accessibility Guid
 3. Understandable - Information and the operation of user interface must be understandable.
 4. Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 
+Compliance with WCAG 2.1 requires satisfying success criteria. The success criteria are summarized on the W3C's [quick reference](https://www.w3.org/WAI/WCAG21/quickref/) page. There are three levels of compliance: A, AA, and AAA. Level A compliance signifies basic accessibility. Level AA compliance means the website addresses the biggest and most common barriers for disabled users. Level AAA compliance represents the highest (and most complex) level of web accessibility.
+
 I won't discuss accessibility in more detail here because I am not an expert and haven't done enough research to speak knowledgeably about accessibility in general. I will address specific accessibility topics in future posts from time to time and intend to make the Serial Comma website as accessible as I can.
 
-The W3C has compiled a database of tools that can be used to evaluate the accessibility of web pages, should you wish to check the sites you design or use -- the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/). The list is several years out of date but is still helpful. Here are three of the more useful tools I have found:
+The W3C has compiled a database of tools that can be used to evaluate the accessibility of web pages, should you wish to check the sites you design or use -- the [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/). The list is several years out of date but is still helpful. Here are three of the more useful other tools I have found:
 
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org)
+* [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
 * [AChecker](https://achecker.ca/checker/index.php)
 * [whocanuse](https://whocanuse.com)
 
