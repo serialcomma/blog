@@ -39,7 +39,7 @@ hr {
 span.time, span.categories{
   font-family: 'Sarabun', sans-serif;
   color: var(--gray-70);
-  margin-bottom: 5px;
+  margin-bottom: 1rem;
   font-size: var(--text-s);
 }
 h1, h2, h3 {
@@ -49,16 +49,19 @@ h1, h2, h3 {
 }
 h1 {
   font-size: var(--text-3xl);
-  margin-bottom: 10px;
+  margin-bottom: 1.5rem;
 }
 h2 {
   font-size: var(--text-xl);
-  margin-bottom: 5px;
+  margin-bottom: 0.8rem;
 }
 h3 {
   font-size: var(--text-l);
   font-weight: 600;
-  margin-bottom: 5px;
+  margin-bottom: 0.6rem;
+}
+p {
+  margin-bottom: var(--text-m);
 }
 a, a:link, a:active {
   text-decoration: none;
@@ -225,6 +228,9 @@ div.col-sm-3 div.profile-about {
   padding: 10px 10px 5px;
   border-top: 1px solid #f0f0f0;
   border-bottom: 1px solid #f0f0f0;
+}
+.post-image {
+  margin-top: 1rem;
 }
 .post-content img,
 .content img {
